@@ -1,0 +1,16 @@
+--------------------UNIVERSIDAD TÉCNICA DEL NORTE-------------------
+MATERIA DAW
+FECHA 14/04/2025
+JEROME MOLINA CORTEZ
+--------------------------------------------------------------------
+___________________PRÁCTICA REPOSITORIO GIT-GITHUB__________________
+
+*COMANDOS USADOS*
+
+Comando	                                                  |      Descripción
+------------------------------------------------------------------------------------------------------------------------------------
+git clone https://github.com/Yoshida077/PracticDAW.git	  |      Clonamos el repositorio en nuestro equipo de trabajo.
+git checkout -b rama-Jerome	                              |      Creamos nuestra rama personal, en mi caso rama-Jerome y cambiamos a ella.
+git add Práctica_Jerome.txt	                              |      Agregamos el archivo al área de preparación -->stage.
+git commit -m "Mensaje descriptivo"	                      |      Creamos un commit con los cambios agregados y un mensaje descriptivo.
+git push origin rama-Jerome	                              |      Finalmente subimos la rama y el commit al repositorio remoto -->GitHub.
